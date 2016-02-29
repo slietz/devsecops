@@ -5,6 +5,6 @@ With the introduction of Security as Code and DevSecOps practices, it is essenti
 # Format for Security.md
 We decided that we were not only going to require SECURITY.md within the root of our projects but that we would define a standard template for what we expect in the file.
 
-**References:**
-[Security @ Discourse](https://github.com/discourse/discourse/blob/master/docs/SECURITY.md)
+**References:**       
+* [Security @ Discourse](https://github.com/discourse/discourse/blob/master/docs/SECURITY.md)
 
